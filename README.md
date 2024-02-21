@@ -1,9 +1,6 @@
 # donateacry-corpus
 An infant cry audio corpus that has been built through the Donate-a-cry campaign (no longer active)
 
-## Using the files
-The database is published under the ODbL, see below. If you work with the corpus in any way, please drop us a line at hello@newparentsapps.com 
-
 ## File naming convention
 The audio files should contain baby cry samples, with the corresponding tagging information encoded in the filenames. The samples were tagged by the contributors themselves. So here's how to parse the filenames.
 
